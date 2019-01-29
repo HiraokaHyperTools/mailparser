@@ -1,6 +1,6 @@
 {
     "name": "@kenjiuno/mailparser-with-iso2022jp",
-    "version": "2.4.7",
+    "version": "2.4.8",
     "description": "Parse e-mails - supports iso2022jp",
     "main": "index.js",
     "scripts": {
@@ -9,11 +9,10 @@
     "author": "Original project by Andris Reinman, forked by kenjiuno",
     "license": "EUPL-1.1+",
     "dependencies": {
-        "encoding-japanese": "1.0.29",
+        "@kenjiuno/iconvlite-wrapper-with-iso2022jp": "0.1.0",
+        "@kenjiuno/mimelib-with-iso2022jp": "0.1.0",
         "he": "1.2.0",
         "html-to-text": "4.0.0",
-        "iconv-lite": "0.4.24",
-        "libmime": "4.0.1",
         "linkify-it": "2.0.3",
         "mailsplit": "4.2.4",
         "nodemailer": "4.6.8",

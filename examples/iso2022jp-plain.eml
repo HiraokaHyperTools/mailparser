@@ -1,0 +1,17 @@
+Date: Tue, 29 Jan 2019 21:58:11 +0900
+From: kenjiuno <from@example.com>
+To: to@example.com
+Cc: cc@example.com
+Subject: =?ISO-2022-JP?B?GyRCRnxLXDhsJEdBdz8uJUYlOSVIJEckORsoQg==?=
+Message-Id: <20190129215811.419f49948c056fe27211e451@example.com>
+X-Mailer: Sylpheed 3.7.0 (GTK+ 2.24.30; i686-pc-mingw32)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+X-Sylpheed-Account-Id: 1
+X-Sylpheed-Compose-AutoWrap: FALSE
+X-Sylpheed-Compose-UseSigning: FALSE
+X-Sylpheed-Compose-UseEncryption: FALSE
+
+日本語で送信テストです。
+kenjiuno
