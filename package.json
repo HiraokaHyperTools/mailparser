@@ -1,7 +1,7 @@
 {
-    "name": "mailparser-iconv-full2",
-    "version": "2.4.5",
-    "description": "Parse e-mails - with iconv full",
+    "name": "@kenjiuno/mailparser-with-iso2022jp",
+    "version": "2.4.6",
+    "description": "Parse e-mails - supports iso2022jp",
     "main": "index.js",
     "scripts": {
         "test": "grunt"
@@ -9,9 +9,10 @@
     "author": "Original project by Andris Reinman, forked by kenjiuno",
     "license": "EUPL-1.1+",
     "dependencies": {
+        "encoding-japanese": "1.0.29",
         "he": "1.2.0",
         "html-to-text": "4.0.0",
-        "iconv": "2.3.2",
+        "iconv-lite": "0.4.24",
         "libmime": "4.0.1",
         "linkify-it": "2.0.3",
         "mailsplit": "4.2.4",
