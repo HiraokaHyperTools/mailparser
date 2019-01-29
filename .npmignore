@@ -4,3 +4,5 @@ test
 .eslintrc
 .travis.yml
 Gruntfile.js
+yarn.lock
+.prettierrc.js
