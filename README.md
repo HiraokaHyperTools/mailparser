@@ -1,11 +1,13 @@
-# mailparser
+# MailParser Iconv Full 2
 
-![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)
+Original project here: https://github.com/nodemailer/mailparser
 
-Advanced email parser for Node.js. Everything is handled as a stream which should make it able to parse even very large messages (100MB+) with relatively low overhead.
+## Install
 
-See [mailparser homepage](https://nodemailer.com/extras/mailparser/) for documentation and terms.
+```bat
+npm install mailparser-iconv-full2
+```
 
-### License
+## Changes
 
-**EUPL-v1.1** or later
+Switched from iconv-lite to iconv.

@@ -1,19 +1,12 @@
 {
-    "name": "mailparser",
-    "version": "2.4.3",
-    "description": "Parse e-mails",
+    "name": "mailparser-iconv-full2",
+    "version": "2.4.4",
+    "description": "Parse e-mails - with iconv full",
     "main": "index.js",
     "scripts": {
         "test": "grunt"
     },
-    "author": "Andris Reinman",
-    "contributors": [
-        {
-            "name": "Peter Salomonsen",
-            "email": "petersalomonsen@runbox.com",
-            "url": "https://github.com/petersalomonsen"
-        }
-    ],
+    "author": "Original project by Andris Reinman, forked by kenjiuno",
     "license": "EUPL-1.1+",
     "dependencies": {
         "he": "1.2.0",
