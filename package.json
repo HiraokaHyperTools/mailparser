@@ -1,6 +1,6 @@
 {
     "name": "@kenjiuno/mailparser-with-iso2022jp",
-    "version": "2.4.8",
+    "version": "0.1.0",
     "description": "Parse e-mails - supports iso2022jp",
     "main": "index.js",
     "scripts": {
